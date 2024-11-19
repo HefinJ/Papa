@@ -1,0 +1,15 @@
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Services\obj\Debug\net9.0\papa.services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Services\obj\Debug\net9.0\papa.services.AssemblyInfoInputs.cache
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Services\obj\Debug\net9.0\papa.services.AssemblyInfo.cs
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Services\obj\Debug\net9.0\papa.services.csproj.CoreCompileInputs.cache
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Services\bin\Debug\net9.0\papa.services.deps.json
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Services\bin\Debug\net9.0\papa.services.dll
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Services\bin\Debug\net9.0\papa.services.pdb
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Services\obj\Debug\net9.0\papa.services.dll
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Services\obj\Debug\net9.0\refint\papa.services.dll
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Services\obj\Debug\net9.0\papa.services.pdb
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Services\obj\Debug\net9.0\ref\papa.services.dll
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Services\bin\Debug\net9.0\papa.models.umbraco.dll
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Services\bin\Debug\net9.0\papa.models.umbraco.pdb
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Services\obj\Debug\net9.0\papa.services.csproj.AssemblyReference.cache
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Services\obj\Debug\net9.0\papa.ser.9E64263B.Up2Date

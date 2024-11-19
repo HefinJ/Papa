@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "papa.web", "Papa.Web\papa.web.csproj", "{69C31FA5-E5AA-421C-84C3-C163E74598D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "papa.models.umbraco", "Papa.Models.Umbraco\papa.models.umbraco.csproj", "{8D084781-A39E-4A4F-9C5D-6FE23282BE5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "papa.services", "Papa.Services\papa.services.csproj", "{AFED3BC6-DB97-47AA-83A6-3905E17E6B48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69C31FA5-E5AA-421C-84C3-C163E74598D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C31FA5-E5AA-421C-84C3-C163E74598D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C31FA5-E5AA-421C-84C3-C163E74598D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C31FA5-E5AA-421C-84C3-C163E74598D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D084781-A39E-4A4F-9C5D-6FE23282BE5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D084781-A39E-4A4F-9C5D-6FE23282BE5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D084781-A39E-4A4F-9C5D-6FE23282BE5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D084781-A39E-4A4F-9C5D-6FE23282BE5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFED3BC6-DB97-47AA-83A6-3905E17E6B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFED3BC6-DB97-47AA-83A6-3905E17E6B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFED3BC6-DB97-47AA-83A6-3905E17E6B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFED3BC6-DB97-47AA-83A6-3905E17E6B48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

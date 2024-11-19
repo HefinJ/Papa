@@ -1,0 +1,12 @@
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Models.Umbraco\bin\Debug\net9.0\papa.models.umbraco.deps.json
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Models.Umbraco\bin\Debug\net9.0\papa.models.umbraco.dll
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Models.Umbraco\bin\Debug\net9.0\papa.models.umbraco.pdb
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Models.Umbraco\obj\Debug\net9.0\papa.models.umbraco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Models.Umbraco\obj\Debug\net9.0\papa.models.umbraco.AssemblyInfoInputs.cache
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Models.Umbraco\obj\Debug\net9.0\papa.models.umbraco.AssemblyInfo.cs
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Models.Umbraco\obj\Debug\net9.0\papa.models.umbraco.csproj.CoreCompileInputs.cache
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Models.Umbraco\obj\Debug\net9.0\papa.models.umbraco.dll
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Models.Umbraco\obj\Debug\net9.0\refint\papa.models.umbraco.dll
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Models.Umbraco\obj\Debug\net9.0\papa.models.umbraco.pdb
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Models.Umbraco\obj\Debug\net9.0\ref\papa.models.umbraco.dll
+C:\Users\DLEAdmin\source\repos\Papa\src\Papa.Models.Umbraco\obj\Debug\net9.0\papa.models.umbraco.csproj.AssemblyReference.cache
